@@ -11,11 +11,6 @@ Below is the CORE-V Roadmap of Application class and Embedded class cores. Pleas
 <img src="https://github.com/openhwgroup/core-v-cores/blob/master/CV-CORES-Roadmap_2023-03-14.png" align="center" />
 
 
-# OpenHW Organization
-
-The OpenHW Group's working groups are member-drive. The Technical Working Group (TWG) drives project decisions and process. The Cores Task Group (CTG), Verification TG (VTG), Software TG (SWTG), and Hardware TG (HWTG) drive open-source projects within their respective focus area. 
-The Asia and Europe Working Groups (AWG and EWG) focus on regional ecosystem development, while the Marketing Working Group (MWG) drives outreach activities.
-
 # Table of Contents 
    
 NOTE: Table to be completed on following pattern
