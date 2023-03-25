@@ -24,6 +24,7 @@ Below is the CORE-V Roadmap of Application class and Embedded class cores. Pleas
 |     							| [CV32E40S](https://github.com/openhwgroup/cv32e40s)							| 4-stage, embedded-class core with security focus |
 |     							| [CV32E40X](https://github.com/openhwgroup/cv32e40x)							| 4-stage, embedded-class core supporting X-Interface |
 |     							| [CV32E41P](https://github.com/openhwgroup/cv32e41p)							| 4-stage, embedded-class core prototyping Zfinx and Zce |
+|     							| [CV32E20](https://github.com/openhwgroup/cve2)							    | 2-stage, embedded-class microcontroller core and core complex |
 |     							| [CV-HPDCACHE](https://github.com/openhwgroup/cv-hpdcache)						| High performance L1 Data Cache |
 | Verification TG    			| [VTG meetings and minutes](https://github.com/openhwgroup/programs/tree/master/TGs/verification-task-group)|   |
 |								| [CORE-V Verif](https://github.com/openhwgroup/core-v-verif)					| Common test bench for OpenHW Cores |
@@ -39,8 +40,7 @@ Below is the CORE-V Roadmap of Application class and Embedded class cores. Pleas
 | Hardware TG     				| [HWTG meetings and minutes](https://github.com/openhwgroup/programs/tree/master/TGs/hardware-task-group)					|  |
 |     							| [CORE-V-MCU](https://github.com/openhwgroup/core-v-mcu)						| ASIC and FPGA MCU implementation of CV32E40P |
 |     							| [CORE-V-MCU-DEVKIT](https://github.com/openhwgroup/core-v-mcu-devkit)			| Devkit for CORE-V-MCU |
-| Technical Working Group     	| [Programs](https://github.com/openhwgroup/programs)							| Program management information |
-|								| [OpenHW project dashboard](https://github.com/openhwgroup/programs/tree/master/dashboard)		| |
+| Technical Working Group		| [OpenHW project dashboard](https://github.com/openhwgroup/programs/tree/master/dashboard)		| |
 |								| [Project Description Folders](https://github.com/openhwgroup/programs/tree/master/Project-Descriptions-and-Plans) | |
 |								| [OpenHW Project process and templates](https://github.com/openhwgroup/programs/tree/master/process)		| |
 
