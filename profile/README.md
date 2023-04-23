@@ -40,6 +40,7 @@ Below is the CORE-V Roadmap of Application class and Embedded class cores. Pleas
 | Hardware TG     				| [HWTG meetings and minutes](https://github.com/openhwgroup/programs/tree/master/TGs/hardware-task-group)					|  |
 |     							| [CORE-V-MCU](https://github.com/openhwgroup/core-v-mcu)						| ASIC and FPGA MCU implementation of CV32E40P |
 |     							| [CORE-V-MCU-DEVKIT](https://github.com/openhwgroup/core-v-mcu-devkit)			| Devkit for CORE-V-MCU |
+|     							| [CORE-V-POLARA-APU](https://github.com/openhwgroup/core-v-polara-apu)			| Multicore CVA6/CVVEC ASIC with OpenPiton |
 | Technical Working Group		| [OpenHW project dashboard](https://github.com/openhwgroup/programs/tree/master/dashboard)		| |
 |								| [Project Description Folders](https://github.com/openhwgroup/programs/tree/master/Project-Descriptions-and-Plans) | |
 |								| [OpenHW Project process and templates](https://github.com/openhwgroup/programs/tree/master/process)		| |
