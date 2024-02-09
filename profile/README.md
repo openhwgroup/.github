@@ -41,13 +41,13 @@ Below is the CORE-V Roadmap of Application class and Embedded class cores. Pleas
 | 			    				| [CVA6 SDK](https://github.com/openhwgroup/cva6-sdk)							| Software tools for the CVA6 core	 |
 | **Interconnect TG**				|																				|																	|
 |     							| [CV-HPDCACHE](https://github.com/openhwgroup/cv-hpdcache)						| High performance L1 Data Cache |
-|     							| [CV-MESH] (repo TBD)															| Coherency framework based on Open Piton |
+|     							| CV-MESH (repo TBD)															| Coherency framework based on Open Piton |
 |     							| [CV-TCCC](https://github.com/openhwgroup/cv-hpdcache)						    | Tightly-coupled cache coherence for CVA6|
-|     							| [CORE-V VISION APU] (repo TBD)												| Machine learning SoC including CVA6 and CV-VEC |
+|     							| CORE-V VISION APU (repo TBD)													| Machine learning SoC including CVA6 and CV-VEC |
 |     							| [CVA6-Platform](https://github.com/openhwgroup/cva6-platform)					| Multi-core CVA6 with CV-MESH intended for software testing |
 |     							| [CORE-V-POLARA-APU](https://github.com/openhwgroup/core-v-polara-apu)			| Multicore CVA6/CVVEC ASIC with CV-MESH |
-|     							| [CORE-V-POLARA-DEVKIT] (repo TBD)												| Development board for Polara APU |
-| **Hardware TG**     				| [HWTG meetings and minutes](https://github.com/openhwgroup/programs/tree/master/TGs/hardware-task-group)					|  |
+|     							| CORE-V-POLARA-DEVKIT (repo TBD)												| Development board for Polara APU |
+| **Hardware TG**     			| [HWTG meetings and minutes](https://github.com/openhwgroup/programs/tree/master/TGs/hardware-task-group)					|  |
 |     							| [CORE-V-MCU](https://github.com/openhwgroup/core-v-mcu)						| ASIC and FPGA MCU implementation of CV32E40P |
 |     							| [CORE-V-MCU-DEVKIT](https://github.com/openhwgroup/core-v-mcu-devkit)			| Devkit for CORE-V-MCU |
 | **Technical Working Group**	| [OpenHW project dashboard](https://github.com/openhwgroup/programs/tree/master/dashboard)		| |
